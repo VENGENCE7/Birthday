@@ -1,0 +1,36 @@
+{
+  "name": "birthday",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.5",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@react-three/fiber": "^8.12.1",
+    "@react-three/postprocessing": "^2.7.1",
+    "@types/three": "^0.150.1",
+    "animation-fireworks": "^1.0.1",
+    "confetti": "^1.1.6",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "firework.js": "^1.1.22",
+    "fireworks-js": "^2.10.3",
+    "framer-motion": "^10.12.2",
+    "leva": "^0.9.34",
+    "maath": "^0.5.3",
+    "meshline": "^3.1.6",
+    "next": "13.3.0",
+    "react": "18.2.0",
+    "react-confetti": "^6.1.0",
+    "react-dom": "18.2.0",
+    "react-slideshow-image": "^4.2.1",
+    "react-text-transition": "^3.1.0",
+    "three": "^0.151.3"
+  }
+}
